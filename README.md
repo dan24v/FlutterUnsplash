@@ -1,6 +1,6 @@
-# proj1
+# Flutter Unsplash galery
 
-A new Flutter application.
+Приложение-галерея для сервиса Unsplash. Было выполнено как тестовое задание за несколько часов.
 
 ## Getting Started
 
